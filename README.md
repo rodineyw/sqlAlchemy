@@ -1,1 +1,1 @@
-### Estudando Python com SQLAlchemy para SQL
+### Integrando Python com Banco de Dados Relacionais Utilizando SQLAlchemy
